@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.table-style{
+    width: 50%;
+    margin: auto;
+}
+
+/* in css i didn't focus much on styling
+* only applied few properties
+* was implementing what i have learned in react
+*/
